@@ -1,6 +1,6 @@
 # Portfolio-Website
 
-### Features of the website are
+### Features of the website are :
 - Responsive Personal Portfolio Website HTML CSS & JavaScript.
 - Contains animations when scrolling.
 - Smooth scrolling in each section.
